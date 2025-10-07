@@ -1,0 +1,53 @@
+{
+	"info": {
+		"_postman_id": "58f28e9f-4481-4505-99ee-c52377a92537",
+		"name": "login-signup",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "32665691",
+		"_collection_link": "https://speeding-sunset-975885.postman.co/workspace/New-Team-Workspace~a741c589-f1d2-4b63-9fb1-8e56e0c92ea4/collection/32665691-58f28e9f-4481-4505-99ee-c52377a92537?action=share&source=collection_link&creator=32665691"
+	},
+	"item": [
+		{
+			"name": "Signup API(post)",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "login API(post)",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Get user detail(get)",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "forgotPassword(post)",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "reset-password(post)",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
+
+https://go.postman.co/workspace/New-Team-Workspace~a741c589-f1d2-4b63-9fb1-8e56e0c92ea4/documentation/32665691-58f28e9f-4481-4505-99ee-c52377a92537?entity=request-09116d97-a04c-4ed5-83f9-aec9169ed439
